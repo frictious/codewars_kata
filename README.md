@@ -1,2 +1,2 @@
 # codewars_kata
-Contains code snipped of codewars kata challenge solutions
+Contains code snippet of codewars kata challenge solutions
